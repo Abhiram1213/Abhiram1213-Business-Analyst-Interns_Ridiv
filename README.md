@@ -1,1 +1,4 @@
-# Abhiram1213-Business-Analyst-Interns_Ridiv
+# Business-Analyst-Interns_Ridiv
+
+
+Comprehensive Market Analysis for OpenAI Applications
